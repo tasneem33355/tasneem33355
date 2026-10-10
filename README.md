@@ -1,28 +1,47 @@
-# Hi there, I'm Tasneem 👋 
+# Hi there, I'm Tasneem Mohamed 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Backend+Architect+%7C+FastAPI+%26+Postgres;Credit+Risk+%26+Fraud+Detection+Specialist;Building+CrediX+AI+Fintech+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Backend+Architect+%7C+FastAPI+%26+Databases;Data+Scientist+%26+Predictive+Modeler" alt="Typing SVG" />
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasneem-mohamed-b67b9a308/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tasneem.mohamed@example.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 
 ### 🌟 About Me
-- 🔭 **Core Architect & ML Engineer** at [CrediX](https://github.com/tasneem33355/CrediX) — an AI-powered Credit Assessment & 5-Layer Fraud Detection platform.
-- 💡 Passionate about building robust **Machine Learning pipelines**, **Fraud Detection architectures**, and high-performance **FastAPI microservices**.
-- 🛠️ Deeply experienced in financial risk modeling, **pgvector** similarity search, and RAG systems.
-- 💬 Ask me about **Credit Risk, Anti-Fraud Systems, Vector DBs, or FastAPI**.
-- 📫 Reach out via [LinkedIn](https://linkedin.com) *(update with your link)*.
+I'm a passionate **AI & Machine Learning Engineer** and **Software Architect** focused on developing end-to-end intelligent systems, deep learning architectures, and scalable backend microservices. My work spans across multiple domains including healthcare imaging, natural language processing, industrial predictive modeling, and financial risk systems.
+
+- 🔭 **Expertise:** Deep Learning, Computer Vision, Transformers & NLP, Predictive Machine Learning, and Backend Engineering.
+- 💡 **Passion:** Bridging the gap between cutting-edge AI models and resilient, production-ready architectures.
+- 💬 **Ask me about:** Medical Image Analysis, Transfer Learning, Transformer Models (BERT/DistilBERT), FastAPI, and Data Pipelines.
+- 📫 **Let's connect:** [LinkedIn Profile](https://www.linkedin.com/in/tasneem-mohamed-b67b9a308/)
 
 ---
 
-### 🚀 Featured Project: CrediX AI Engine
-| Core ML & Risk Engine | Microservices & Analytics | Production Orchestrator |
-| :---: | :---: | :---: |
-| [**Credit Risk & Fraud Engine**](https://github.com/tasneem33355/credit-risk-model)<br>End-to-end ML & 5-Layer Fraud defense | [**Portfolio Analytics Service**](https://github.com/tasneem33355/portfolio-analytics-service)<br>Stress-testing & Expected Loss engine | [**CrediX Core Platform**](https://github.com/tasneem33355/CrediX)<br>FastAPI, pgvector & Live Dashboard |
+### 🔬 Core Domains & Technical Focus
+
+```
+       ┌───────────────────────────────┐
+       │   AI & Software Engineering   │
+       └───────────────┬───────────────┘
+   ┌───────────────────┼───────────────────┐
+   ▼                   ▼                   ▼
+[ Computer Vision ]  [ Natural Language ] [ Production & Backend ]
+- Medical Imaging    - Transformers/BERT  - FastAPI Microservices
+- CNNs & Transfer    - Text Classification- PostgreSQL / pgvector
+  Learning (EffNet)  - Sentiment & Topics - Docker & REST APIs
+```
 
 ---
 
-### 💻 Tech Stack & Toolkit
+### 💻 Technologies & Tooling
 
 <p align="left">
   <!-- Languages -->
@@ -30,17 +49,20 @@
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <br/>
-  <!-- AI / ML -->
+  <!-- Machine Learning & Deep Learning -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20%26%20LLMs-10B981?style=for-the-badge&logo=openai&logoColor=white" />
   <br/>
-  <!-- Backend & DB -->
+  <!-- Backend & Infrastructure -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -59,5 +81,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Built with continuous curiosity & engineering precision by Tasneem</sub>
+  <sub>✨ Continuously learning, innovating, and architecting intelligent solutions.</sub>
 </div>
